@@ -6,7 +6,7 @@ def crazy_strings(a,b)
   return "#{a} #{b}"
 end 
 
-puts crazy_strings("Hello","friends")
+puts crazy_strings("Hello","Friends")
 
 # def crazy_strings(a,b)
   # puts "#{a}".reverse.upcase
