@@ -13,4 +13,4 @@ puts crazy_strings("Hello","friends")
   # puts "#{b}".gsub("s","z").swapcase
 # end
 
-crazy_strings("Hello","friends")
+crazy_strings("Hello","Friends")
